@@ -1,7 +1,5 @@
 # gitpython_examples
 
-[TOC]
-
 Talk is cheap.  Show me the code.
 
 用Python玩点儿好玩的，这个项目收录了《天作之程》公众号精选的系列文章，重新编排整理而成。
