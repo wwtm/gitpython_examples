@@ -1,7 +1,4 @@
-<a name="index">**Index**</a>
-<a href="#0">gitpython_examples</a>  
-&emsp;<a href="#1">Python实用脚本 V1.0</a>  
-# <a name="0">gitpython_examples</a><a style="float:right;text-decoration:none;" href="#index">[Top]</a>
+# gitpython_examples
 
 [TOC]
 
@@ -9,7 +6,7 @@ Talk is cheap.  Show me the code.
 
 用Python玩点儿好玩的，这个项目收录了《天作之程》公众号精选的系列文章，重新编排整理而成。
 
-## <a name="1">Python实用脚本 V1.0</a><a style="float:right;text-decoration:none;" href="#index">[Top]</a>
+## Python实用脚本 V1.0
 
 这一部分精选了8个有趣的实用脚本，并整理出了md和pdf两个格式的文档，可在《天作之程》公众号后台，回复关键字“10”即可免费领取。
 
