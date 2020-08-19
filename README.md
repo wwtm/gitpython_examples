@@ -38,7 +38,7 @@ Talk is cheap.  Show me the code.
 ### Python基础系列
 
 | 原文链接                                                     |
-| ------------------------------------------------------------ |
+| :------------------------------------------------------------ |
 | [写给想零基础入门Python编程的小伙伴](https://mp.weixin.qq.com/s/sLQhVH0OFuz_aPoi0oWbqw) |
 | [Python编程，你一定需要的环境搭建](https://mp.weixin.qq.com/s/a91DMChimjqO03hguKvieQ) |
 | [Python条件逻辑\|小明什么情况下才能坐火车？](https://mp.weixin.qq.com/s/R9TByaRLSlbJYzdA8aKn8w) |
@@ -49,7 +49,7 @@ Talk is cheap.  Show me the code.
 ### 好玩的神器插件
 
 | 原文链接                                                     |
-| ------------------------------------------------------------ |
+| :------------------------------------------------------------ |
 | [神器Typora，让你爱上写作](https://mp.weixin.qq.com/s/SYroOFdgC2c-hK3h3fHAgw) |
 | [你还在用百度搜索吗？试试这个超好用的搜索神器](https://mp.weixin.qq.com/s/tp5H1bjTQ69TUAiLe2aVug) |
 | [划词翻译，即时翻译](https://mp.weixin.qq.com/s/XELHlC-zq6Jo3XdqwVm_rQ) |
@@ -58,17 +58,19 @@ Talk is cheap.  Show me the code.
 
 ### Python学习资料
 
+| 原文链接                                                     |
+| :------------------------------------------------------------ |
 | [一张图学习Python3](https://mp.weixin.qq.com/s/bcVTEtLRyT1vR6R2iwW_ww) |
 | [建议收藏 \| 盘点那些 Python 好玩的练习题目](https://mp.weixin.qq.com/s/zlPcAft70eH6rVGs8GIgMg) |
 | [Github中文项目排行榜](https://mp.weixin.qq.com/s/3eHnbh_ZKhXs0Mak3dxMLA) |
 | [14张高质量思维导图，构建 Python 核心知识体系](https://mp.weixin.qq.com/s/4deERa75UEx_8MNVL0fe2w) |
 | [这份Python面试手册，Github标星3k+](https://mp.weixin.qq.com/s/JzszprGXaB-6-ynIRuVLEw) |
-| [100天从新手到大师，Github星标82.9K](https://mp.weixin.qq.com/s/CjOfE36L4k226rgam0Vq3A) |
+| [100天从新手到大师，Github星标82.9K](https://mp.weixin.qq.com/s/CjOfE36L4k226rgam0Vq3A) 
 
 ### Python小技巧
 
 | 原文链接                                                     |
-| ------------------------------------------------------------ |
+| :------------------------------------------------------------ |
 | [让你的 pip下载速度 飞起来 ~~](https://mp.weixin.qq.com/s/NomUzI5xiEcCsdo2pkr0YA) |
 | [简化 Python异常信息](https://mp.weixin.qq.com/s/fHOvvdsaFgzwGhi4XGN4Pw) |
 | [用 Python 给程序加个进度条，让你的程序看起来更炫酷](https://mp.weixin.qq.com/s/vwZCJKuH3OBvH25i1LB5Ow) |
