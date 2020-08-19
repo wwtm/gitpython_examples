@@ -20,7 +20,7 @@
 - 如果你在学习的过程中遇到一些小的问题，这些 [“Python小技巧”](https://github.com/wwtm/gitpython_examples#python%E5%B0%8F%E6%8A%80%E5%B7%A7) 或许可以帮助到你，包括加速pip安装扩展库、简化Python异常信息等；
 - 另外，这个项目还包括了一些提高效率的 [“好玩的神器插件”](https://github.com/wwtm/gitpython_examples#%E5%A5%BD%E7%8E%A9%E7%9A%84%E7%A5%9E%E5%99%A8%E6%8F%92%E4%BB%B6) 以及 [“PPT设计”](https://github.com/wwtm/gitpython_examples#python%E5%B0%8F%E6%8A%80%E5%B7%A7)
 
-大多数源码已经上传，有做的不好的地方，欢迎同学们来提issue。觉得不错的小伙伴，记得给个**star**呀！
+大多数源码已经上传，有做的不好的地方，欢迎同学们来提issue。**觉得不错的小伙伴，记得给个star呀！**
 
 Talk is cheap.  Show you the code.
 
