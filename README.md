@@ -1,6 +1,6 @@
 # gitpython_examples
 
-👇**这个项目有什么的**？
+👇**这个项目有什么的*？
 
 这个项目包括以下内容：
 
@@ -18,9 +18,9 @@
 - 如果你已经了解了Python的基础语法，想要练练手，可以在 **[“Python实用脚本 V1.0”](https://github.com/wwtm/gitpython_examples#python%E5%AE%9E%E7%94%A8%E8%84%9A%E6%9C%AC-v10)** 中找到有趣的练习案例，另外前8篇实用脚本已经整理出了.md和.pdf两个版本，下载链接如下：
 - 如果你想深入“数据分析”方向，可以看 **[“数据分析系列”](https://github.com/wwtm/gitpython_examples#%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E7%B3%BB%E5%88%97)**  文章，包括从工具/matploblib、jupyter notebook到数据获取/爬虫以及数据分析、可视化的实际案例；
 - 如果你在学习的过程中遇到一些小的问题，这些 **[“Python小技巧”](https://github.com/wwtm/gitpython_examples#python%E5%B0%8F%E6%8A%80%E5%B7%A7)** 或许可以帮助到你，包括加速pip安装扩展库、简化Python异常信息等；
-- 另外，这个项目还包括了一些提高效率的 **[“好玩的神器插件”](https://github.com/wwtm/gitpython_examples#%E5%A5%BD%E7%8E%A9%E7%9A%84%E7%A5%9E%E5%99%A8%E6%8F%92%E4%BB%B6)** 以及 **[“PPT设计技巧”](https://github.com/wwtm/gitpython_examples#python%E5%B0%8F%E6%8A%80%E5%B7%A7)**
+- 另外，这个项目还包括了一些提高效率的 **[“好玩的神器插件”](https://github.com/wwtm/gitpython_examples#%E5%A5%BD%E7%8E%A9%E7%9A%84%E7%A5%9E%E5%99%A8%E6%8F%92%E4%BB%B6)** 以及 **[“PPT设计”](https://github.com/wwtm/gitpython_examples#python%E5%B0%8F%E6%8A%80%E5%B7%A7)**
 
-**觉得不错的小伙伴，记得给个star呀！**
+觉得不错的小伙伴，记得给个**star**呀！
 
 Talk is cheap.  Show you the code.
 
