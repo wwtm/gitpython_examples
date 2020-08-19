@@ -58,8 +58,6 @@ Talk is cheap.  Show me the code.
 
 ### Python学习资料
 
-| 原文链接                                                     |
-| ------------------------------------------------------------ |
 | [一张图学习Python3](https://mp.weixin.qq.com/s/bcVTEtLRyT1vR6R2iwW_ww) |
 | [建议收藏 \| 盘点那些 Python 好玩的练习题目](https://mp.weixin.qq.com/s/zlPcAft70eH6rVGs8GIgMg) |
 | [Github中文项目排行榜](https://mp.weixin.qq.com/s/3eHnbh_ZKhXs0Mak3dxMLA) |
