@@ -1,0 +1,1 @@
+pyuic5 -o WeatherWin.py WeatherWin.ui
