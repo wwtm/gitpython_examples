@@ -1,8 +1,8 @@
 # gitpython_examples
 
-这个项目是干什么的？
+👇**这个项目有什么的**？
 
-这个项目包括以下方面的内容：
+这个项目包括以下内容：
 
 - [数据分析系列](https://github.com/wwtm/gitpython_examples#%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E7%B3%BB%E5%88%97)
 - [Python实用脚本 V1.0](https://github.com/wwtm/gitpython_examples#python%E5%AE%9E%E7%94%A8%E8%84%9A%E6%9C%AC-v10)
@@ -12,9 +12,17 @@
 - [好玩的神器插件](https://github.com/wwtm/gitpython_examples#%E5%A5%BD%E7%8E%A9%E7%9A%84%E7%A5%9E%E5%99%A8%E6%8F%92%E4%BB%B6)
 - [PPT设计](https://github.com/wwtm/gitpython_examples#python%E5%B0%8F%E6%8A%80%E5%B7%A7)
 
+👇**这个项目怎么用**？
+
+- 如果你想入门Python，可以先从 **[“Python基础系列”](https://github.com/wwtm/gitpython_examples#python%E5%9F%BA%E7%A1%80%E7%B3%BB%E5%88%97)** 开始看起，包括Python的基础数据类型、条件分支、循环遍历、模块、异常、面向对象等，也可以在 **[“Python学习资料”](https://github.com/wwtm/gitpython_examples#python%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99)** 中找到一些其他的学习资料，包括“一图学Python”以及一些高star的Github资料；
+- 如果你已经了解了Python的基础语法，想要练练手，可以在 **[“Python实用脚本 V1.0”](https://github.com/wwtm/gitpython_examples#python%E5%AE%9E%E7%94%A8%E8%84%9A%E6%9C%AC-v10)** 中找到有趣的练习案例，另外前8篇实用脚本已经整理出了.md和.pdf两个版本，下载链接如下：
+- 如果你想深入“数据分析”方向，可以看 **[“数据分析系列”](https://github.com/wwtm/gitpython_examples#%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E7%B3%BB%E5%88%97)**  文章，包括从工具/matploblib、jupyter notebook到数据获取/爬虫以及数据分析、可视化的实际案例；
+- 如果你在学习的过程中遇到一些小的问题，这些 **[“Python小技巧”](https://github.com/wwtm/gitpython_examples#python%E5%B0%8F%E6%8A%80%E5%B7%A7)** 或许可以帮助到你，包括加速pip安装扩展库、简化Python异常信息等；
+- 另外，这个项目还包括了一些提高效率的 **[“好玩的神器插件”](https://github.com/wwtm/gitpython_examples#%E5%A5%BD%E7%8E%A9%E7%9A%84%E7%A5%9E%E5%99%A8%E6%8F%92%E4%BB%B6)** 以及 **[“PPT设计技巧”](https://github.com/wwtm/gitpython_examples#python%E5%B0%8F%E6%8A%80%E5%B7%A7)**
+
 Talk is cheap.  Show me the code.
 
-### 数据分析系列
+### 👇数据分析系列
 
 | 原文链接                                                     |
 | :----------------------------------------------------------- |
@@ -35,7 +43,7 @@ Talk is cheap.  Show me the code.
 | [Selenium自动化，爬取淘宝4332条粽子数据进行分析（词云、地图可视化）](https://mp.weixin.qq.com/s/csjBSnJacw26Ifol4SwqIg) |
 | [图像识别零基础？手把手带你打造一个小狗分类器](https://mp.weixin.qq.com/s/AKywqaCkQdWV30AWTHF_Qg) |
 
-### Python实用脚本 V1.0
+### 👇Python实用脚本 V1.0
 
 | 原文链接                                                     |
 | :----------------------------------------------------------- |
@@ -56,7 +64,7 @@ Talk is cheap.  Show me the code.
 | [用Python制作动态二维码，真的只需要一行代码](https://mp.weixin.qq.com/s/GHIou1_u25llXo8s3MZQtg) |
 | [2行代码用 Python「剪藏」网页为 PDF](https://mp.weixin.qq.com/s/_zkLPOwpaKUr_iChKRKopw) |
 
-### Python基础系列
+### 👇Python基础系列
 
 | 原文链接                                                     |
 | :----------------------------------------------------------- |
@@ -77,7 +85,7 @@ Talk is cheap.  Show me the code.
 | [学Python，从列表推导到zip()函数，这五种技巧应知应会！](https://mp.weixin.qq.com/s/3YFv7S00iDpfQOCj2XUOgQ) |
 | [30个Python最佳实践、小贴士和技巧，强烈建议收藏！](https://mp.weixin.qq.com/s/TagFSf_-G047msCPpqagXQ) |
 
-### 好玩的神器插件
+### 👇好玩的神器插件
 
 | 原文链接                                                     |
 | :------------------------------------------------------------ |
@@ -87,7 +95,7 @@ Talk is cheap.  Show me the code.
 | [这个在线代码编辑器，可以把代码分享给任何人](https://mp.weixin.qq.com/s/poAWyhv0eXl8B9lsQDsAgA) |
 | [高效搜索神器，你选listary还是火柴？](https://mp.weixin.qq.com/s/xRvAWjC4Qqt-J7rvWhnxIA) |
 
-### Python学习资料
+### 👇Python学习资料
 
 | 原文链接                                                     |
 | :----------------------------------------------------------- |
@@ -98,7 +106,7 @@ Talk is cheap.  Show me the code.
 | [这份Python面试手册，Github标星3k+](https://mp.weixin.qq.com/s/JzszprGXaB-6-ynIRuVLEw) |
 | [100天从新手到大师，Github星标82.9K](https://mp.weixin.qq.com/s/CjOfE36L4k226rgam0Vq3A) |
 | [Ｂ站收藏 8.3w+，这门神课拯救了我薄弱的计算机基础](https://mp.weixin.qq.com/s/AX6JGO9gWLUrqGtz3dr3sg) |
-### Python小技巧
+### 👇Python小技巧
 
 | 原文链接                                                     |
 | :----------------------------------------------------------- |
@@ -107,7 +115,7 @@ Talk is cheap.  Show me the code.
 | [用 Python 给程序加个进度条，让你的程序看起来更炫酷](https://mp.weixin.qq.com/s/vwZCJKuH3OBvH25i1LB5Ow) |
 | [这个Python库竟然可以偷懒，和import说再见](https://mp.weixin.qq.com/s/ktamMhL7hBk3vTDHUpX8YA) |
 
-### PPT设计
+### 👇PPT设计
 
 | 原文链接                                                     |
 | :----------------------------------------------------------- |
