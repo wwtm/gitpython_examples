@@ -5,11 +5,11 @@
 这个项目包括以下方面的内容：
 
 - [数据分析系列](https://github.com/wwtm/gitpython_examples#%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E7%B3%BB%E5%88%97)
-- [Python实用脚本 V1.0]([https://github.com/wwtm/gitpython_examples#python%E5%AE%9E%E7%94%A8%E8%84%9A%E6%9C%AC-v10](https://github.com/wwtm/gitpython_examples#python实用脚本-v10))
+- [Python实用脚本 V1.0](https://github.com/wwtm/gitpython_examples#python%E5%AE%9E%E7%94%A8%E8%84%9A%E6%9C%AC-v10)
 - [Python基础系列](https://github.com/wwtm/gitpython_examples#python%E5%9F%BA%E7%A1%80%E7%B3%BB%E5%88%97)
-- [好玩的神器插件](https://github.com/wwtm/gitpython_examples#%E5%A5%BD%E7%8E%A9%E7%9A%84%E7%A5%9E%E5%99%A8%E6%8F%92%E4%BB%B6)
-- [Python学习资料]([https://github.com/wwtm/gitpython_examples#python%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99](https://github.com/wwtm/gitpython_examples#python学习资料))
+- [Python学习资料](https://github.com/wwtm/gitpython_examples#python%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99)
 - [Python小技巧](https://github.com/wwtm/gitpython_examples#python%E5%B0%8F%E6%8A%80%E5%B7%A7)
+- [好玩的神器插件](https://github.com/wwtm/gitpython_examples#%E5%A5%BD%E7%8E%A9%E7%9A%84%E7%A5%9E%E5%99%A8%E6%8F%92%E4%BB%B6)
 - [PPT设计](https://github.com/wwtm/gitpython_examples#python%E5%B0%8F%E6%8A%80%E5%B7%A7)
 
 Talk is cheap.  Show me the code.
