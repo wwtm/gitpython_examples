@@ -1,6 +1,6 @@
 # gitpython_examples
 
-![](https://gitee.com/wwtm/picgo/raw/master/img/20200819151620.jpg)
+![自己项目](https://gitee.com/wwtm/picgo/raw/master/img/20200819193135.jpg)
 
 👇**这个项目有什么？**
 
