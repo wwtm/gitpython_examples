@@ -2,7 +2,7 @@
 
 Talk is cheap.  Show me the code.
 
-### Python实用脚本
+### Python实用脚本 V1.0
 
 | 原文链接                                                     |
 | :----------------------------------------------------------- |
@@ -14,7 +14,7 @@ Talk is cheap.  Show me the code.
 | [用 Python 暴力破解 zip压缩文件](https://mp.weixin.qq.com/s/vwEwdUu4Wnoj54euteHjGw) |
 | [用 Python 批量下载百度图片](https://mp.weixin.qq.com/s/wi70_LC2QGYq6_DswIYxZg) |
 | [用 Python 编写一个天气查询应用（可视化界面）](https://mp.weixin.qq.com/s/vNuN0-kANrlBCIQDlJ7M1A) |
-| [2行代码用 Python「剪藏」网页为 PDF](https://mp.weixin.qq.com/s/_zkLPOwpaKUr_iChKRKopw) |
+|                                                              |
 | [python 快速「卡通化」人物头像](https://mp.weixin.qq.com/s/8j6ClCwkLxA8TOlIDfgmYw) |
 | [python玩转emoji 🤪](https://mp.weixin.qq.com/s/J1xSOsiJAYlRlYQCnLJQyQ) |
 | [python打造实时截图识别OCR](https://mp.weixin.qq.com/s/HHY-zMANOkF3tZbKsU0xdQ) |
@@ -22,6 +22,7 @@ Talk is cheap.  Show me the code.
 | [3行代码，搞定AI自动抠图](https://mp.weixin.qq.com/s/X9QJB5uzjxf048e8cI1fvw) |
 | [帮老师开发了一款发送生日祝福的小工具](https://mp.weixin.qq.com/s/KWP4WC4oR2H5KRGlsbEi4w) |
 | [用Python制作动态二维码，真的只需要一行代码](https://mp.weixin.qq.com/s/GHIou1_u25llXo8s3MZQtg) |
+| [2行代码用 Python「剪藏」网页为 PDF](https://mp.weixin.qq.com/s/_zkLPOwpaKUr_iChKRKopw) |
 
 ### 数据分析系列
 
