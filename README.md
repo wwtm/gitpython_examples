@@ -1,5 +1,7 @@
 # gitpython_examples
 
+![](https://gitee.com/wwtm/picgo/raw/master/img/20200819151620.jpg)
+
 👇**这个项目有什么？**
 
 这个项目包括以下内容：
